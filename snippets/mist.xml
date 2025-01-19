@@ -43,6 +43,20 @@
           sync-j="4"
           revision="refs/heads/15" />
 
+  <remote  name="yaap"
+           fetch="https://github.com/yaap"
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/fifteen" />
+ 
+  <remote  name="aospa"
+           fetch="https://github.com/AOSPA"
+           revision="refs/heads/vauxite" />
+
+  <remote  name="clo"
+           fetch="https://git.codelinaro.org/clo/"
+           revision="refs/tags/LA.QSSI.15.0.r1-10300-qssi.0" />
+                     
   <!-- Android Manifest  -->
   <!-- Art -->
   <remove-project path="art" />

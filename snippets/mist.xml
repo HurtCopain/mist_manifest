@@ -224,7 +224,7 @@
   <project path="vendor/extra" name="vendor_extra" remote="mist" />
   
 <!--Waffle-->
-  <project path="device/oneplus/waffle" remote="hurt" name="device_oneplus_waffle" revision="fifteen" />
+  <project path="device/oneplus/waffle" remote="hurt" name="device_oneplus_waffle" revision="mist" />
   <project path="device/oneplus/sm8650-common" remote="hurt" name="device_oneplus_sm8650-common" revision="fifteen" />
   <project path="device/oneplus/waffle-kernel" remote="hurt" name="device_oneplus_waffle-kernel" revision="fifteen" />
   <project path="hardware/oplus" name="hardware_oplus" remote="hurt" revision="fifteen" />

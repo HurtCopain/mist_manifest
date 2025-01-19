@@ -169,7 +169,7 @@
 
   <!-- Hardware  -->
   <project path="hardware/google/graphics/common" name="android_hardware_google_graphics_common" groups="pdk-lassen,pdk-gs-arm" remote="rising" />
-  <project path="hardware/interfaces" name="android_hardware_interfaces" groups="pdk,sysui-studio" remote="rising" />
+  <project path="hardware/interfaces" name="hardware_interfaces" remote="hurt" />
   <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" remote="rising" />
 
   <!-- Lineage SDK  -->
